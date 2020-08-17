@@ -8,11 +8,11 @@ body, html {
 
 .bg-image {
   /* The image used */
-  background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Flaxsohard%2Flacrosse-action-shots%2F&psig=AOvVaw1NsWs8K9xKMfIjbqHSRNvg&ust=1597715341328000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODMqtGPoesCFQAAAAAdAAAAABAD");
+  background-image: url("action_pic.jpeg");
 
   /* Add the blur effect */
-  filter: blur(8px);
-  -webkit-filter: blur(8px);
+  filter: blur(3px);
+  -webkit-filter: blur(3px);
 
   /* Full height */
   height: 100%;
@@ -25,11 +25,11 @@ body, html {
 
 /* Position text in the middle of the page/image */
 .bg-text {
-  background-color: rgb(0,0,0); /* Fallback color */
-  background-color: rgba(0,0,0, 0.4); /* Black w/opacity/see-through */
-  color: white;
+  /*background-color: rgb(0,0,0); /* Fallback color */
+  /*background-color: rgba(0,0,0, 0.4); /* Black w/opacity/see-through */ 
+  color: black;
   font-weight: bold;
-  border: 3px solid #f1f1f1;
+  border: 3px solid black;
   position: absolute;
   top: 50%;
   left: 50%;
