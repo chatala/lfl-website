@@ -38,9 +38,10 @@ body, html {
   width: 80%;
   padding: 10px;
   text-align: center;
-  font-size: 50;
+  font-size: 20px;
 }
 
 .mid-line {
   color: red;
+  font-size: 30px;
 }
